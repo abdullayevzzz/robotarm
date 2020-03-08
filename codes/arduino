@@ -1,5 +1,4 @@
-
-
+//
 #include <Servo.h>
  
 Servo myservobir;  // create servo object to control a servo
